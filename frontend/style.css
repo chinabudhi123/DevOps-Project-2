@@ -1,0 +1,8 @@
+body {
+  font-family: Arial;
+  margin: 30px;
+}
+form input, form button {
+  margin: 10px;
+}
+
